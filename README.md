@@ -10,6 +10,7 @@
 - clone the repository
 - composer install
 - rename .env.example to .env
+- setup database on .env file
 - create database named "db_indopasifik_test"
 - type on terminal
     - php artisan key:generate
